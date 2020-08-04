@@ -1,16 +1,16 @@
 ### Eaí de boa? Eu sou o Guilherme Zago - AKA [MecBonjourno & Founder of the Za Co][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## Eu sou Estudante, Developer & Entusiasta de Tecnologia
+- 🔭 Atualmente eu trabalho em uma empresa de Comércio e Serviço Marítimos.
+- 🌱 Sempre focado em aprender mais sobre desenvolvimento.
+- 👯 Atualmente desenvolvendo Ambientes Web para 3 empresas diferentes.
+- 🥅 Estudando desenvolvimento com React e suas dependencias
+- ⚡  Nas horas vagas eu jogo um CS:GO
 
-### Connect with me:
+### Da uma olhada nas minhas redes socias:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
