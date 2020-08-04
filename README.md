@@ -1,4 +1,4 @@
-### Eaí de boa? Eu sou o Guilherme Zago - AKA [MecBonjourno][website] 👋
+### Eaí de boa? Eu sou o Guilherme Zago - AKA [MecBonjourno & Founder of the Za Co][website] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
