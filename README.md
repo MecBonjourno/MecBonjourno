@@ -62,7 +62,7 @@ BLOG-POST-LIST:END -->
 
 ---
 
-<img align="left" alt="Github Stats For MecBonjourno" src="https://github-readme-stats.vercel.app/api?username=MecBonjourno&show_icons=true&hide_border=true" />
+<img align="center" alt="Github Stats For MecBonjourno" src="https://github-readme-stats.vercel.app/api?username=MecBonjourno&show_icons=true&hide_border=true" />
 
 [website]: https://theza.co
 [twitter]: https://twitter.com/zagoguic
