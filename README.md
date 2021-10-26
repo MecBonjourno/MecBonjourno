@@ -3,7 +3,7 @@
 ## Eu sou Estudante, Developer & Entusiasta de Tecnologia
 - 🔭 Atualmente eu trabalho na [Compasso UOL][website].
 - 🌱 Sempre focado em aprender mais sobre desenvolvimento.
-- 👯 Atualmente desenvolvendo em equipes de front-end para o Sicredi.
+- 👯 Atualmente desenvolvendo como fullstack dev na TORO Investimentos
 - 🥅 Sempre estudando desenvolvimento com React e suas dependencias
 - ⚡  Nas horas vagas eu jogo um CS:GO
 
