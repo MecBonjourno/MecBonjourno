@@ -39,7 +39,7 @@
 ### Sup? I'm Guilherme Zago - AKA [MecBonjourno & Founder of the Za Co][website] 👋
 ##### (I know Guilherme is a hard name to pronounce, so you can call me Zago or Mec, or whatever you want 😜)
 ## I'm a Student, Software Engineer & Tech Enthusiast
-- 🎈 Currently working on [PoaTek][poatek].
+- 🎈 Currently working in [PoaTek][poatek].
 - 🌱 Always focused on learning and improving myself.
 <!-- - 👯 Currently working on the Front-End development of [Probius DX][probius] -->
 - 🥅 Always studying React Development and its dependencies, but willing to work with other frameworks
