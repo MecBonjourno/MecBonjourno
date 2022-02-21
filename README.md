@@ -5,7 +5,7 @@
 ## Eu sou Estudante, Engenheiro de Software & Entusiasta de Tecnologia
 - 🎈 Atualmente eu trabalho na [PoaTek][poatek].
 - 🌱 Sempre focado em aprender mais sobre desenvolvimento.
-<!-- - 👯 Atualmente desenvolvendo como Front-End @ [Probius DX][probius] -->
+- 👯 Atualmente desenvolvendo como FullStack em um projeto que eu não posso dar nome
 - 🥅 Sempre estudando desenvolvimento com React e suas dependencias, mas disposto a trabalhar com outras frameworks
 - ⚡  Nas horas vagas eu jogo um CS:GO e F1 2021 
 
@@ -41,7 +41,7 @@
 ## I'm a Student, Software Engineer & Tech Enthusiast
 - 🎈 Currently working in [PoaTek][poatek].
 - 🌱 Always focused on learning and improving myself.
-<!-- - 👯 Currently working on the Front-End development of [Probius DX][probius] -->
+- 👯 Currently working on the FullStack developer at a project that I can't name
 - 🥅 Always studying React Development and its dependencies, but willing to work with other frameworks
 - ⚡ On my spare time, i love to play CS:GO and F1 2021 Game
 
