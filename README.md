@@ -4,6 +4,7 @@
 
 ## Eu sou Estudante, Engenheiro de Software & Entusiasta de Tecnologia
 - 🎈 Atualmente eu trabalho na [PoaTek][poatek].
+- 🈁 Recentemente focando meus estudos em Web3 e Blockchain com a web
 - 🌱 Sempre focado em aprender mais sobre desenvolvimento.
 - 👯 Atualmente desenvolvendo como FullStack em um projeto que eu não posso dar nome
 - 🥅 Sempre estudando desenvolvimento com React e suas dependencias, mas disposto a trabalhar com outras frameworks
@@ -40,6 +41,7 @@
 ##### (I know Guilherme is a hard name to pronounce, so you can call me Zago or Mec, or whatever you want 😜)
 ## I'm a Student, Software Engineer & Tech Enthusiast
 - 🎈 Currently working in [PoaTek][poatek].
+- 🈁 Recently I've been focusing my studies in Web3 and Blockchain on web 
 - 🌱 Always focused on learning and improving myself.
 - 👯 Currently working on the FullStack developer at a project that I can't name
 - 🥅 Always studying React Development and its dependencies, but willing to work with other frameworks
