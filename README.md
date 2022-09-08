@@ -4,11 +4,11 @@
 
 ## Eu sou Estudante, Engenheiro de Software & Entusiasta de Tecnologia
 - 🎈 Atualmente eu trabalho na [PoaTek][poatek].
-- 🈁 Recentemente focando meus estudos em Web3 e Blockchain com a web
-- 🌱 Sempre focado em aprender mais sobre desenvolvimento.
-- 👯 Atualmente desenvolvendo como FullStack em um projeto que eu não posso dar nome
+- 🈁 Ultimamente focado em estudar Data Engineering, DS e aplicar o uso num novo projeto 👀
+- 🌱 Sempre focado em aprender mais sobre software, design e como utiliza-los em conjunto.
+- 👯 Atualmente desenvolvendo como Web Engineer na [Electrify America][ea]
 - 🥅 Sempre estudando desenvolvimento com React e suas dependencias, mas disposto a trabalhar com outras frameworks
-- ⚡  Nas horas vagas eu jogo um CS:GO e F1 2021 
+- ⚡ Nas horas vagas eu jogo um CS:GO e F1 2021, na maior parte dessas horas trabalho no Plano PAZ 
 
 ### Da uma olhada nas minhas redes socias:
 
@@ -41,11 +41,11 @@
 ##### (I know Guilherme is a hard name to pronounce, so you can call me Zago or Mec, or whatever you want 😜)
 ## I'm a Student, Software Engineer & Tech Enthusiast
 - 🎈 Currently working in [PoaTek][poatek].
-- 🈁 Recently I've been focusing my studies in Web3 and Blockchain on web 
+- 🈁 Lately I've been focused in studying Data Engineering, Data Science and how to apply it in a new personal project. 👀
 - 🌱 Always focused on learning and improving myself.
 - 👯 Currently working on the FullStack developer at a project that I can't name
 - 🥅 Always studying React Development and its dependencies, but willing to work with other frameworks
-- ⚡ On my spare time, i love to play CS:GO and F1 2021 Game
+- ⚡ On my spare time, i love to play CS:GO and F1 2021 Game, lately all my spare time is focused on work on PAZ Plan
 
 ### Check my social media:
 
@@ -72,6 +72,6 @@
 [website]: https://theza.co
 [twitter]: https://twitter.com/zagoguic
 [poatek]: https://poatek.com
-[probius]: https://www.probius.bio
+[ea]: https://www.electrifyamerica.com/
 [instagram]: https://instagram.com/zagoguic
 [linkedin]: https://linkedin.com/in/guilherme-zago-740574165/
