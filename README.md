@@ -2,7 +2,7 @@
 
 ### Eaí de boa? Eu sou o Guilherme Zago - AKA [MecBonjourno & Founder of the Za Co][website] 👋
 
-## Eu sou Formado em Administração, Engenheiro de Software & Entusiasta de Tecnologia
+## Eu sou Formado em Administração e Inovação, Engenheiro de Software & Entusiasta de Tecnologia
 - 🎈 Atualmente eu trabalho na [Poatek][poatek].
 - 🈁 Ultimamente focado em estudar Data Engineering, DS e aplicar o uso num novo projeto 👀
 - 🌱 Sempre focado em aprender mais sobre software, design e como utiliza-los em conjunto.
@@ -39,7 +39,7 @@
 
 ### Sup? I'm Guilherme Zago - AKA [MecBonjourno & Founder of the Za Co][website] 👋
 ##### (I know Guilherme is a hard name to pronounce, so you can call me Zago or Mec, or whatever you want 😜)
-## I'm Graduated in Business Adminisration, Software Engineer & Tech Enthusiast
+## I'm Graduated in Innovation & Business Adminisration, Software Engineer & Tech Enthusiast
 - 🎈 Currently working in [Poatek][poatek].
 - 🈁 Lately I've been focused in studying Data Engineering, Data Science and how to apply it in a new personal project. 👀
 - 🌱 Always focused on learning and improving myself.
