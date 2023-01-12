@@ -2,13 +2,13 @@
 
 ### Eaí de boa? Eu sou o Guilherme Zago - AKA [MecBonjourno & Founder of the Za Co][website] 👋
 
-## Eu sou Estudante, Engenheiro de Software & Entusiasta de Tecnologia
-- 🎈 Atualmente eu trabalho na [PoaTek][poatek].
+## Eu sou Formado em Administração, Engenheiro de Software & Entusiasta de Tecnologia
+- 🎈 Atualmente eu trabalho na [Poatek][poatek].
 - 🈁 Ultimamente focado em estudar Data Engineering, DS e aplicar o uso num novo projeto 👀
 - 🌱 Sempre focado em aprender mais sobre software, design e como utiliza-los em conjunto.
 - 👯 Atualmente desenvolvendo como Web Engineer na [Electrify America][ea]
 - 🥅 Sempre estudando desenvolvimento com React e suas dependencias, mas disposto a trabalhar com outras frameworks
-- ⚡ Nas horas vagas eu jogo um CS:GO e F1 2021, na maior parte dessas horas trabalho no Plano PAZ 
+- ⚡ Nas horas vagas eu jogo um CS:GO e Jogos de Corrida, na maior parte dessas horas trabalho no PAZ 
 
 ### Da uma olhada nas minhas redes socias:
 
@@ -39,13 +39,13 @@
 
 ### Sup? I'm Guilherme Zago - AKA [MecBonjourno & Founder of the Za Co][website] 👋
 ##### (I know Guilherme is a hard name to pronounce, so you can call me Zago or Mec, or whatever you want 😜)
-## I'm a Student, Software Engineer & Tech Enthusiast
-- 🎈 Currently working in [PoaTek][poatek].
+## I'm Graduated in Business Adminisration, Software Engineer & Tech Enthusiast
+- 🎈 Currently working in [Poatek][poatek].
 - 🈁 Lately I've been focused in studying Data Engineering, Data Science and how to apply it in a new personal project. 👀
 - 🌱 Always focused on learning and improving myself.
-- 👯 Currently working on the FullStack developer at a project that I can't name
+- 👯 Currently working as a Web Enginner for [Electrify America][ea]
 - 🥅 Always studying React Development and its dependencies, but willing to work with other frameworks
-- ⚡ On my spare time, i love to play CS:GO and F1 2021 Game, lately all my spare time is focused on work on PAZ Plan
+- ⚡ On my spare time, I love to play CS:GO and Motor Racing games, lately all my spare time is focused on work on PAZ
 
 ### Check my social media:
 
