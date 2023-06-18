@@ -1,10 +1,9 @@
 <img align="left" alt="Git" width="46px" src="https://cdn-0.emojis.wiki/emoji-pics/facebook/united-states-facebook.png" />
 
-### Hey! I'm Guilherme Zago - AKA [MecBonjourno & Founder of the Za Co][website] 👋
-##### (I know Guilherme is a hard name to pronounce, so you can call me Zago or Mec, or whatever you want 😜)
-## I'm Graduated in Innovation & Business Adminisration, Software Engineer & Tech Enthusiast
-- 🎈 Currently working in [Poatek][poatek].
-- 🈁 Lately I've been focused in studying Data Engineering, Data Science and how to apply it in a new personal project. 👀
+### Hey Everyone! I'm Zago - AKA [MecBonjourno & PAZ Founder][website] 👋
+## I'm Generative AI / LLM Developer, Graduated in Innovation & Business Adminisration, long time Software Engineer & Tech Enthusiast
+- <img alt="Git" width="24px" src="https://scontent.fpoa33-2.fna.fbcdn.net/v/t39.30808-6/305202479_505575691570973_8562561022653881772_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=CmmIe2bPw_MAX8eqtSM&_nc_ht=scontent.fpoa33-2.fna&oh=00_AfBjcLCZQ_OB9OvVzLb3ucOX7HbM3a2kHQNfnd3TBCvmlA&oe=64947A6F"/>  Currently working @ [Poatek][poatek].
+- <img alt="Git" width="24px" src="https://cdn-icons-png.flaticon.com/512/910/910614.png"/> Completely focused in studying Large Language Models, Generative AI, and innovate in all sorts of new usability 👀
 - 🌱 Always focused on learning and improving myself.
 - 👯 Currently working as a Web Enginner for [Electrify America][ea]
 - 🥅 Always studying React Development and its dependencies, but willing to work with other frameworks
