@@ -3,7 +3,7 @@
 ### Hey Everyone! I'm Zago - AKA [MecBonjourno & PAZ Founder][website] 👋
 ## I'm Generative AI / LLM Developer, Graduated in Innovation & Business Adminisration, long time Software Engineer & Tech Enthusiast
 - <img alt="Git" width="24px" src="https://scontent.fpoa33-2.fna.fbcdn.net/v/t39.30808-6/305202479_505575691570973_8562561022653881772_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=CmmIe2bPw_MAX8eqtSM&_nc_ht=scontent.fpoa33-2.fna&oh=00_AfBjcLCZQ_OB9OvVzLb3ucOX7HbM3a2kHQNfnd3TBCvmlA&oe=64947A6F"/>  Currently working @ [Poatek][poatek].
-- <img alt="Git" width="24px" src="https://cdn-icons-png.flaticon.com/512/910/910614.png"/> Completely focused in studying Large Language Models, Generative AI, and innovate in all sorts of new usability 👀
+- <img alt="Git" width="24px" src="https://cdn-icons-png.flaticon.com/512/910/910077.png"/> Completely focused in studying Large Language Models, Generative AI, and innovate in all sorts of new usability 👀
 - 🌱 Always focused on learning and improving myself.
 - 👯 Currently working as a Web Enginner for [Electrify America][ea]
 - 🥅 Always studying React Development and its dependencies, but willing to work with other frameworks
