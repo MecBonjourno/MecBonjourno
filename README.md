@@ -3,7 +3,7 @@
 
 - 💻 Completely focused in studying Large Language Models, Generative AI, and innovate in all sorts of new usability 👀
 - 🧠 Guided by the belief that knowledge thrives when shared, several of my repositories are public, commented and/or annotated for collective comprehension. 
-- ⚡ On my spare time, I hate to but I play a lot of CS2 (former CSGO) and Motorsport games, always focused on working on PAZ
+- ⚡ On my spare time, I **hate** to, but I play a lot of CS2 (former CSGO) and Motorsport games, always focused on spending some time with PAZ
 - 🚧 Developing innovative and creative projects with AI
 
 ### Check my social media:
