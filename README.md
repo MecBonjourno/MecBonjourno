@@ -11,12 +11,11 @@
 
 <p align="center">
   <a href="https://www.instagram.com/zagoguic/">
-    <img width="290" alt="image" src="https://github.com/MecBonjourno/MecBonjourno/assets/34528662/ec6d46a1-1e26-473c-ae5d-372669e150a5">
-  </a>
+    <img src="https://imgur.com/a/3eajHF8" alt="Guilherme Zago's Instagram"/></a>
   <a href="https://www.linkedin.com/in/guilhermezago1/">
-    <img width="350" alt="image" src="https://github.com/MecBonjourno/MecBonjourno/assets/34528662/c19fc162-a50e-4b0c-829f-13fbc87c046f">
-  </a>
+    <img src="https://imgur.com/a/7HCINq2" alt="Guilherme Zago's Linkedin"/></a>
 </p>
+
 
 
 
@@ -80,4 +79,4 @@
 
 
 [website]: https://theza.co
-[linkedin]: https://linkedin.com/in/guilherme-zago-740574165/
+[linkedin]: https://linkedin.com/in/guilherme-zago1/
