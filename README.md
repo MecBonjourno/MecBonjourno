@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://www.instagram.com/zagoguic/">
-    <img src="https://i.imgur.com/h3Os3Xk.png" width="370" /></a>
+    <img src="https://i.imgur.com/h3Os3Xk.png" width="270" /></a>
   <a href="https://www.linkedin.com/in/guilhermezago1/">
-    <img src="https://imgur.com/QYIsOrk.png" width="530" />
+    <img src="https://imgur.com/QYIsOrk.png" width="390" />
   </a>
 </p>
 
